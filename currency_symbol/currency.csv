@@ -1,0 +1,129 @@
+country,title,usd_rate,eur_rate
+Armenian Dram,AMD,0.00206,0.00180
+Azerbaijani Manat,AZN,0.58944,0.51456
+Bahraini Dinar,BHD,2.65248,2.31550
+Georgian Lari,GEL,0.37523,0.32756
+Iranian Rial,IRR,0.00002,0.00002
+Iraqi Dinar,IQD,0.00084,0.00073
+Israeli New Shekel,ILS,0.27344,0.23870
+Jordanian Dinar,JOD,1.40917,1.23014
+Kazakhstan Tenge,KZT,0.00264,0.00231
+Kuwaiti Dinar,KWD,3.29987,2.88064
+Kyrgyzstani Som,KGS,0.01432,0.01250
+Lebanese Pound,LBP,0.00066,0.00058
+Omani Rial,OMR,2.59797,2.26791
+Qatari Rial,QAR,0.27465,0.23976
+Saudi Riyal,SAR,0.26655,0.23269
+Syrian Pound,SYP,0.00194,0.00170
+Turkish Lira,TRY,0.18098,0.15799
+Turkmenistan Manat,TMT,0.28571,0.24941
+United Arab Emirates Dirham,AED,0.27225,0.23767
+Uzbekistan Som,UZS,0.00012,0.00010
+Yemeni Rial,YER,0.00399,0.00349
+Albanian Lek,ALL,0.00914,0.00798
+Belarusian Ruble,BYN,0.46398,0.40503
+Bosnia and Herzegovina Marka,BAM,0.58600,0.51156
+British Pound,GBP,1.28360,1.12051
+Bulgarian Lev,BGN,0.58580,0.51138
+Croatian Kuna,HRK,0.15410,0.13452
+Czech Koruna,CZK,0.04481,0.03912
+Danish Krone,DKK,0.15347,0.13398
+Euro,EUR,1.14554,1.00000
+Hungarian Forint,HUF,0.00357,0.00311
+Iceland Krona,ISK,0.00827,0.00722
+Macedonia Denar,MKD,0.01864,0.01627
+Moldovan Leu,MDL,0.05837,0.05095
+Norwegian Krone,NOK,0.11694,0.10208
+Polish Zloty,PLN,0.26679,0.23289
+Romanian Leu,RON,0.24493,0.21381
+Russian Ruble,RUB,0.01487,0.01298
+Serbian Dinar,RSD,0.00968,0.00845
+Swedish Krona,SEK,0.11178,0.09758
+Swiss Franc,CHF,1.01725,0.88800
+Ukraine Hryvnia,UAH,0.03545,0.03095
+Algerian Dinar,DZD,0.00846,0.00739
+Angolan Kwanza,AOA,0.00322,0.00281
+Botswana Pula,BWP,0.09489,0.08284
+Burundi Franc,BIF,0.00055,0.00048
+Cape Verde Escudo,CVE,0.01040,0.00908
+CFA BCEAO Franc,XOF,0.00175,0.00153
+CFA BEAC Franc,XAF,0.00175,0.00153
+Djibouti Franc,DJF,0.00563,0.00491
+Egyptian Pound,EGP,0.05574,0.04866
+Eritrean Nakfa,ERN,0.06667,0.05820
+Ethiopian Birr,ETB,0.03530,0.03082
+Gambian Dalasi,GMD,0.02020,0.01763
+Ghanaian Cedi,GHS,0.20471,0.17870
+Guinea Franc,GNF,0.00011,0.00010
+Kenyan Shilling,KES,0.00983,0.00858
+Lesotho Loti,LSL,0.06940,0.06058
+Libyan Dinar,LYD,0.72032,0.62881
+Malawi Kwacha,MWK,0.00137,0.00120
+Mauritius Rupee,MUR,0.02924,0.02553
+Moroccan Dirham,MAD,0.10536,0.09197
+Namibian Dollar,NAD,0.07189,0.06276
+Nigerian Naira,NGN,0.00275,0.00240
+Rwanda Franc,RWF,0.00112,0.00098
+Somali Shilling,SOS,0.00173,0.00151
+South African Rand,ZAR,0.07176,0.06264
+Sudanese Pound,SDG,0.02101,0.01834
+Swaziland Lilangeni,SZL,0.07192,0.06278
+Tanzanian Shilling,TZS,0.00043,0.00038
+Tunisian Dinar,TND,0.33817,0.29521
+Uganda Shilling,UGX,0.00027,0.00023
+Australian Dollar,AUD,0.71886,0.62755
+Bangladeshi Taka,BDT,0.01188,0.01037
+Brunei Dollar,BND,0.63456,0.55394
+Cambodian Riel,KHR,0.00025,0.00022
+Zambian Kwacha,ZMW,0.08346,0.07285
+CFP Franc,XPF,0.00960,0.00838
+Chinese Yuan Renminbi,CNY,0.14775,0.12898
+Fiji Dollar,FJD,0.47224,0.41224
+Hong Kong Dollar,HKD,0.12750,0.11130
+Indian Rupee,INR,0.01413,0.01234
+Indonesian Rupiah,IDR,0.00007,0.00006
+Japanese Yen,JPY,0.00925,0.00807
+Korean Won,KRW,0.00089,0.00078
+Lao Kip,LAK,0.00012,0.00010
+Macau Pataca,MOP,0.12383,0.10810
+Malaysian Ringgit,MYR,0.24385,0.21287
+Myanmar Kyat,MMK,0.00065,0.00057
+Nepalese Rupee,NPR,0.00895,0.00782
+New Zealand Dollar,NZD,0.68140,0.59482
+Pakistan Rupee,PKR,0.00715,0.00624
+Philippine Peso,PHP,0.01914,0.01671
+Seychelles Rupee,SCR,0.07329,0.06398
+Singapore Dollar,SGD,0.73808,0.64431
+Sri Lanka Rupee,LKR,0.00549,0.00479
+Taiwan Dollar,TWD,0.03239,0.02827
+Argentine Peso,ARS,0.02710,0.02366
+Bahamian Dollar,BSD,0.99468,0.86830
+Barbados Dollar,BBD,0.50000,0.43647
+Thai Baht,THB,0.03130,0.02732
+Vietnamese Dong,VND,0.00004,0.00004
+Belize Dollar,BZD,0.49609,0.43306
+Bermudian Dollar,BMD,1.00005,0.87299
+Bolivian Boliviano,BOB,0.14394,0.12565
+Brazilian Real,BRL,0.26869,0.23455
+Canadian Dollar,CAD,0.75276,0.65713
+Cayman Islands Dollar,KYD,1.21951,1.06456
+Chilean Peso,CLP,0.00148,0.00129
+Colombian Peso,COP,0.00032,0.00028
+Costa Rican Colon,CRC,0.00165,0.00144
+Cuban Peso,CUP,0.99478,0.86838
+Dominican Peso,DOP,0.01986,0.01734
+East Caribbean Dollar,XCD,0.37002,0.32301
+Guatemalan Quetzal,GTQ,0.12942,0.11297
+Haitian Gourde,HTG,0.01287,0.01124
+Honduran Lempira,HNL,0.04099,0.03578
+Jamaican Dollar,JMD,0.00768,0.00671
+Mexican Peso,MXN,0.05208,0.04546
+Netherlands Antillian Guilder,ANG,0.55865,0.48768
+Nicaraguan Cordoba Oro,NIO,0.03074,0.02684
+Panamanian Balboa,PAB,0.99458,0.86821
+Paraguay Guarani,PYG,0.00017,0.00015
+Peruvian Nuevo Sol,PEN,0.29885,0.26088
+Trinidad and Tobago Dollar,TTD,0.14688,0.12822
+Uruguay Peso,UYU,0.03052,0.02664
+US Dollar,USD,1.00000,0.87295
+Venezuelan Bolivar,VEF,0.00000,0.00000
